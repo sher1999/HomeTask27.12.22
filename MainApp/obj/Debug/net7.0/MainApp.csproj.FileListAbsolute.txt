@@ -1,0 +1,15 @@
+D:\coftclub\C#\week3\27.12.22\class work\MainApp\bin\Debug\net7.0\MainApp.exe
+D:\coftclub\C#\week3\27.12.22\class work\MainApp\bin\Debug\net7.0\MainApp.deps.json
+D:\coftclub\C#\week3\27.12.22\class work\MainApp\bin\Debug\net7.0\MainApp.runtimeconfig.json
+D:\coftclub\C#\week3\27.12.22\class work\MainApp\bin\Debug\net7.0\MainApp.dll
+D:\coftclub\C#\week3\27.12.22\class work\MainApp\bin\Debug\net7.0\MainApp.pdb
+D:\coftclub\C#\week3\27.12.22\class work\MainApp\obj\Debug\net7.0\MainApp.csproj.AssemblyReference.cache
+D:\coftclub\C#\week3\27.12.22\class work\MainApp\obj\Debug\net7.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week3\27.12.22\class work\MainApp\obj\Debug\net7.0\MainApp.AssemblyInfoInputs.cache
+D:\coftclub\C#\week3\27.12.22\class work\MainApp\obj\Debug\net7.0\MainApp.AssemblyInfo.cs
+D:\coftclub\C#\week3\27.12.22\class work\MainApp\obj\Debug\net7.0\MainApp.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week3\27.12.22\class work\MainApp\obj\Debug\net7.0\MainApp.dll
+D:\coftclub\C#\week3\27.12.22\class work\MainApp\obj\Debug\net7.0\refint\MainApp.dll
+D:\coftclub\C#\week3\27.12.22\class work\MainApp\obj\Debug\net7.0\MainApp.pdb
+D:\coftclub\C#\week3\27.12.22\class work\MainApp\obj\Debug\net7.0\MainApp.genruntimeconfig.cache
+D:\coftclub\C#\week3\27.12.22\class work\MainApp\obj\Debug\net7.0\ref\MainApp.dll
